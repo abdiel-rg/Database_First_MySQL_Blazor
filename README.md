@@ -18,6 +18,7 @@ El siguiente gif detalla como configurar los programas para este tutorial. Es mu
 Usaremos la base de datos de Northwind, disponible en <a href="https://github.com/dalers/mywind">este repositorio de GitHub</a>, y descargaremos los archivos `northwind-data.sql`, `northwind.sql` y `northwind-erd.pdf`.
 
 Aquí está el diagrama Entidad Relación de la misma, [encontrado en el repositorio](https://github.com/dalers/mywind/raw/master/northwind-erd.png).
+<br><br>
 ![northwind-erd.png](https://github.com/dalers/mywind/raw/master/northwind-erd.png)
 
 ## Construyendo la Base de Datos 👷‍♂️📄
@@ -90,8 +91,8 @@ Adjunto a este tutorial, se encuentra el código fuente de la aplicación. Si de
 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-Bjb21tb25tYXJrXG4iLCJoaXN0b3J5IjpbMzQ1MzI5NDkyLC0x
-OTM0MzQzNTczLC0xMzIxNTc0NzMwLC0xMzUwMjkxNjMsMTIwMD
-I3NDQwOSwxMjA1NzU5MjM5LDIwNzE4MzE1NzYsLTEwNDg2NzIz
-MTYsLTEyNDI1NDgzOTRdfQ==
+Bjb21tb25tYXJrXG4iLCJoaXN0b3J5IjpbLTE5MjYzNDc4Niwt
+MTkzNDM0MzU3MywtMTMyMTU3NDczMCwtMTM1MDI5MTYzLDEyMD
+AyNzQ0MDksMTIwNTc1OTIzOSwyMDcxODMxNTc2LC0xMDQ4Njcy
+MzE2LC0xMjQyNTQ4Mzk0XX0=
 -->
