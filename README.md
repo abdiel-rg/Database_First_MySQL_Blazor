@@ -77,7 +77,7 @@ Y aquí está el resultado.
 
 ![Resultado](https://i.ibb.co/5YxR6Wh/image.png)
 
-Adjunto a este tutorial, s
+Adjunto a este tutorial, se encuentra el código fuente de la aplicación. Si desea, puede hacerle "fork" al repositorio y probarlo.
 
 
 <br >
@@ -90,8 +90,8 @@ Adjunto a este tutorial, s
 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-Bjb21tb25tYXJrXG4iLCJoaXN0b3J5IjpbLTEzMjMyNjUzNCwt
-MTMyMTU3NDczMCwtMTM1MDI5MTYzLDEyMDAyNzQ0MDksMTIwNT
-c1OTIzOSwyMDcxODMxNTc2LC0xMDQ4NjcyMzE2LC0xMjQyNTQ4
-Mzk0XX0=
+Bjb21tb25tYXJrXG4iLCJoaXN0b3J5IjpbLTE5MzQzNDM1NzMs
+LTEzMjE1NzQ3MzAsLTEzNTAyOTE2MywxMjAwMjc0NDA5LDEyMD
+U3NTkyMzksMjA3MTgzMTU3NiwtMTA0ODY3MjMxNiwtMTI0MjU0
+ODM5NF19
 -->
