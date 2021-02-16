@@ -1,6 +1,6 @@
 # Database-First con Entity Framework Core y MySQL 💾
 
-En este tutorial, aprenderemos como importar los datos de una base de datos MySQL ya creada y utilizarlos usando Entity Framework Core. Esto se conoce como *Database-First*.
+En este tutorial, aprenderemos como importar las tablas de una base de datos MySQL ya creada y acceder a los datos de las mismas utilizando Entity Framework Core y Blazor. Esto se conoce como *Database-First*.
 
 ## Programas Necesarios 💻
 Primero, tenemos que descargar e instalar los siguientes programas:
@@ -62,7 +62,7 @@ dotnet add package Pomelo.EntityFrameworkCore.MySql -v 3.2.4
 ## Creando los Modelos a partir de la Base de Datos 📋
 Para hacer esto, usaremos este comando. Este puede variar dependiendo algunos factores, tales como el gestor de base de datos que estemos usando y la base de datos que vamos a importar.
 
-En este caso, usando MySQL, se ve así:
+En este caso, usando MySQL y la base de datos Northwind, se ve así:
 ```bash
 dotnet ef dbcontext scaffold "server=localhost;uid=root;pwd=mysql;database=northwind" Pomelo.EntityFrameworkCore.MySql --output-dir Models --force
 ```
@@ -95,10 +95,10 @@ Adjunto a este tutorial, se encuentra el código fuente de la aplicación. Si de
 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-Bjb21tb25tYXJrXG4iLCJoaXN0b3J5IjpbMTk2MTU5Njk1OSwt
-NzU3ODc3NDUzLC0yMDAzMTAyNTM2LC0xMjQ2NTAwNTU3LDE4NT
-Y0MTIyNDcsLTE5MjYzNDc4NiwtMTkzNDM0MzU3MywtMTMyMTU3
-NDczMCwtMTM1MDI5MTYzLDEyMDAyNzQ0MDksMTIwNTc1OTIzOS
-wyMDcxODMxNTc2LC0xMDQ4NjcyMzE2LC0xMjQyNTQ4Mzk0XX0=
+Bjb21tb25tYXJrXG4iLCJoaXN0b3J5IjpbLTE4Mzg1NDg1NTks
+LTc1Nzg3NzQ1MywtMjAwMzEwMjUzNiwtMTI0NjUwMDU1NywxOD
+U2NDEyMjQ3LC0xOTI2MzQ3ODYsLTE5MzQzNDM1NzMsLTEzMjE1
+NzQ3MzAsLTEzNTAyOTE2MywxMjAwMjc0NDA5LDEyMDU3NTkyMz
+ksMjA3MTgzMTU3NiwtMTA0ODY3MjMxNiwtMTI0MjU0ODM5NF19
 
 -->
