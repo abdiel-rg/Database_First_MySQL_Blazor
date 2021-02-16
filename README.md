@@ -12,7 +12,7 @@ Primero, tenemos que descargar e instalar los siguientes programas:
 
 El siguiente gif detalla como configurar los programas para este tutorial. Es muy simple, de hecho!
 <br><br>
-<img src="https://i.ibb.co/9V4Krg0/ezgifcom-gif-maker.gif" alt="ezgifcom-gif-maker" border="0">
+![SQLYog_AMPPS_Config]("/SQLYog_AMPPS_Config.gif?raw=true")
 
 
 ## Descargando la Base de Datos 📚
