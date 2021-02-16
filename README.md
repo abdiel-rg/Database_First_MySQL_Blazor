@@ -12,7 +12,7 @@ Primero, tenemos que descargar e instalar los siguientes programas:
 
 El siguiente gif detalla como configurar los programas para este tutorial. Es muy simple, de hecho!
 <br><br>
-<img src="https://i.ibb.co/9V4Krg0/ezgifcom-gif-maker.gif" />
+<img src="https://i.ibb.co/9V4Krg0/ezgifcom-gif-maker.gif?raw=true" />
 
 
 ## Descargando la Base de Datos 📚
@@ -92,7 +92,7 @@ Adjunto a este tutorial, se encuentra el código fuente de la aplicación. Si de
 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-Bjb21tb25tYXJrXG4iLCJoaXN0b3J5IjpbLTUxNzYyODcwMSwt
+Bjb21tb25tYXJrXG4iLCJoaXN0b3J5IjpbMTg1NjQxMjI0Nywt
 MTkyNjM0Nzg2LC0xOTM0MzQzNTczLC0xMzIxNTc0NzMwLC0xMz
 UwMjkxNjMsMTIwMDI3NDQwOSwxMjA1NzU5MjM5LDIwNzE4MzE1
 NzYsLTEwNDg2NzIzMTYsLTEyNDI1NDgzOTRdfQ==
