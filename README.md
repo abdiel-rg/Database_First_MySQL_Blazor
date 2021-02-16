@@ -12,7 +12,7 @@ Primero, tenemos que descargar e instalar los siguientes programas:
 
 El siguiente gif detalla como configurar los programas para este tutorial. Es muy simple, de hecho!
 <br><br>
-![SQLYog_AMPPS_Config]("/SQLYog_AMPPS_Config.gif?raw=true")
+![SQLYog_AMPPS_Config](SQLYog_AMPPS_Config.gif)
 
 
 ## Descargando la Base de Datos 📚
