@@ -11,7 +11,7 @@ Primero, tenemos que descargar e instalar los siguientes programas:
 - **[AMPPS](https://ampps.com/downloads) :**	*"Es un stack de software fácil de instalar de Apache, MySQL, PHP, Perl, Python y el auto-instalador Softaculous, que se puede utilizar en desktops y servidores de oficina."*	<sup><a id="fnp2" href="#fn2">2</a></sup>
 
 El siguiente gif detalla como configurar los programas para este tutorial. Es muy simple, de hecho!
-<br><
+<br><br>
 <img src="https://i.ibb.co/9V4Krg0/ezgifcom-gif-maker.gif" />
 
 
@@ -92,7 +92,7 @@ Adjunto a este tutorial, se encuentra el código fuente de la aplicación. Si de
 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-Bjb21tb25tYXJrXG4iLCJoaXN0b3J5IjpbLTkxNzU3MTM1Mywt
+Bjb21tb25tYXJrXG4iLCJoaXN0b3J5IjpbLTUxNzYyODcwMSwt
 MTkyNjM0Nzg2LC0xOTM0MzQzNTczLC0xMzIxNTc0NzMwLC0xMz
 UwMjkxNjMsMTIwMDI3NDQwOSwxMjA1NzU5MjM5LDIwNzE4MzE1
 NzYsLTEwNDg2NzIzMTYsLTEyNDI1NDgzOTRdfQ==
