@@ -1,5 +1,11 @@
 # Database-First con Entity Framework Core y MySQL 💾
 
+<style>
+	pre {
+	  tab-width: 2;
+	}
+</style>
+
 En este tutorial, aprenderemos como importar los datos de una base de datos MySQL ya creada y utilizarlos usando Entity Framework Core. Esto se conoce como *Database-First*.
 
 ## Programas Necesarios 💻
@@ -73,3 +79,9 @@ dotnet ef dbcontext scaffold "server=localhost;uid=root;pwd=mysql;database=north
 <sub><a id="fn1" href="#fnp1">1:</a> Extracto traducido del Readme del [repositorio oficial de SQLYog Community Edition](https://github.com/webyog/sqlyog-community).</sub>
 
 <sub><a id="fn2" href="#fnp2">2:</a>	Extracto traducido de la [página oficial de AMPPS](https://ampps.com).</sub>
+
+<!--stackedit_data:
+eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
+Bjb21tb25tYXJrXG4iLCJoaXN0b3J5IjpbLTEyNDI1NDgzOTRd
+fQ==
+-->
