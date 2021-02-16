@@ -64,7 +64,7 @@ Para hacer esto, usaremos este comando. Este puede variar dependiendo algunos fa
 ```bash
 dotnet ef dbcontext scaffold "server=localhost;uid=root;pwd=mysql;database=northwind" Pomelo.EntityFrameworkCore.MySql --output-dir Models --force
 ```
--
+- **scaffold**: Gener
 	
 Podemos confirmar la creación de los modelos accediendo a la carpeta Models, tal como se ve en la imagen.
 
@@ -94,9 +94,10 @@ Adjunto a este tutorial, se encuentra el código fuente de la aplicación. Si de
 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-Bjb21tb25tYXJrXG4iLCJoaXN0b3J5IjpbLTc1Nzg3NzQ1Mywt
-MjAwMzEwMjUzNiwtMTI0NjUwMDU1NywxODU2NDEyMjQ3LC0xOT
-I2MzQ3ODYsLTE5MzQzNDM1NzMsLTEzMjE1NzQ3MzAsLTEzNTAy
-OTE2MywxMjAwMjc0NDA5LDEyMDU3NTkyMzksMjA3MTgzMTU3Ni
-wtMTA0ODY3MjMxNiwtMTI0MjU0ODM5NF19
+Bjb21tb25tYXJrXG4iLCJoaXN0b3J5IjpbMjc4MDIzMDYwLC03
+NTc4Nzc0NTMsLTIwMDMxMDI1MzYsLTEyNDY1MDA1NTcsMTg1Nj
+QxMjI0NywtMTkyNjM0Nzg2LC0xOTM0MzQzNTczLC0xMzIxNTc0
+NzMwLC0xMzUwMjkxNjMsMTIwMDI3NDQwOSwxMjA1NzU5MjM5LD
+IwNzE4MzE1NzYsLTEwNDg2NzIzMTYsLTEyNDI1NDgzOTRdfQ==
+
 -->
