@@ -40,8 +40,7 @@ Ahora, creamos un nuevo proyecto utilizando el template de Blazor Server
 dotnet new blazorserver -o "Tarea_5"
 ```
 <br>
-Y entramos al directorio del proyecto utilizando el comando <code>cd:
-
+Y entramos al directorio del proyecto utilizando el comando <code>cd</code>:
 
 ```bash
 cd Tarea_5
@@ -91,8 +90,8 @@ Adjunto a este tutorial, se encuentra el código fuente de la aplicación. Si de
 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-Bjb21tb25tYXJrXG4iLCJoaXN0b3J5IjpbLTQ3Mjg5MCwtMTkz
-NDM0MzU3MywtMTMyMTU3NDczMCwtMTM1MDI5MTYzLDEyMDAyNz
-Q0MDksMTIwNTc1OTIzOSwyMDcxODMxNTc2LC0xMDQ4NjcyMzE2
-LC0xMjQyNTQ4Mzk0XX0=
+Bjb21tb25tYXJrXG4iLCJoaXN0b3J5IjpbMzQ1MzI5NDkyLC0x
+OTM0MzQzNTczLC0xMzIxNTc0NzMwLC0xMzUwMjkxNjMsMTIwMD
+I3NDQwOSwxMjA1NzU5MjM5LDIwNzE4MzE1NzYsLTEwNDg2NzIz
+MTYsLTEyNDI1NDgzOTRdfQ==
 -->
