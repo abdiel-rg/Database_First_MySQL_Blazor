@@ -73,6 +73,8 @@ Por ejemplo, esta es una consulta para cargar todos los empleados en una tabla u
 ![VSCode_Consulta](https://i.ibb.co/cgCVZRr/image.png)
 <br><br>
 Y aquí está el resultado.
+
+
 ![Resultado](https://i.ibb.co/5YxR6Wh/image.png)
 
 
@@ -86,7 +88,7 @@ Y aquí está el resultado.
 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-Bjb21tb25tYXJrXG4iLCJoaXN0b3J5IjpbMTcyMzE5NzI4Niwt
+Bjb21tb25tYXJrXG4iLCJoaXN0b3J5IjpbMTk2OTA2ODczOCwt
 MTMyMTU3NDczMCwtMTM1MDI5MTYzLDEyMDAyNzQ0MDksMTIwNT
 c1OTIzOSwyMDcxODMxNTc2LC0xMDQ4NjcyMzE2LC0xMjQyNTQ4
 Mzk0XX0=
