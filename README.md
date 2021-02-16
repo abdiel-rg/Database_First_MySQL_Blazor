@@ -11,8 +11,9 @@ Primero, tenemos que descargar e instalar los siguientes programas:
 - **[AMPPS](https://ampps.com/downloads) :**	*"Es un stack de software fácil de instalar de Apache, MySQL, PHP, Perl, Python y el auto-instalador Softaculous, que se puede utilizar en desktops y servidores de oficina."*	<sup><a id="fnp2" href="#fn2">2</a></sup>
 
 El siguiente gif detalla como configurar los programas para este tutorial. Es muy simple, de hecho!
+<br><
+<img src="https://i.ibb.co/9V4Krg0/ezgifcom-gif-maker.gif" />
 
-![](https://i.ibb.co/9V4Krg0/ezgifcom-gif-maker.gif)
 
 ## Descargando la Base de Datos 📚
 Usaremos la base de datos de Northwind, disponible en <a href="https://github.com/dalers/mywind">este repositorio de GitHub</a>, y descargaremos los archivos `northwind-data.sql`, `northwind.sql` y `northwind-erd.pdf`.
@@ -91,8 +92,8 @@ Adjunto a este tutorial, se encuentra el código fuente de la aplicación. Si de
 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-Bjb21tb25tYXJrXG4iLCJoaXN0b3J5IjpbLTE5MjYzNDc4Niwt
-MTkzNDM0MzU3MywtMTMyMTU3NDczMCwtMTM1MDI5MTYzLDEyMD
-AyNzQ0MDksMTIwNTc1OTIzOSwyMDcxODMxNTc2LC0xMDQ4Njcy
-MzE2LC0xMjQyNTQ4Mzk0XX0=
+Bjb21tb25tYXJrXG4iLCJoaXN0b3J5IjpbLTkxNzU3MTM1Mywt
+MTkyNjM0Nzg2LC0xOTM0MzQzNTczLC0xMzIxNTc0NzMwLC0xMz
+UwMjkxNjMsMTIwMDI3NDQwOSwxMjA1NzU5MjM5LDIwNzE4MzE1
+NzYsLTEwNDg2NzIzMTYsLTEyNDI1NDgzOTRdfQ==
 -->
