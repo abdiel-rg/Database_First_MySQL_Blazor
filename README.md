@@ -64,10 +64,12 @@ dotnet add package Pomelo.EntityFrameworkCore.MySql -v 3.2.4
 ```
 
 ## Creando los Modelos a partir de la Base de Datos
-Para hacer esto, usaremos este comando. Este puede variar dependiendo algunos factores, tales como la connectionString. 
+Para hacer esto, usaremos este comando. Este puede variar dependiendo algunos factores, tales como la connectionString.
 ```bash
 dotnet ef dbcontext scaffold "server=localhost;uid=root;pwd=mysql;database=northwind" Pomelo.EntityFrameworkCore.MySql --output-dir Models --force
 ```
+
+
 
 <br>
 
@@ -82,6 +84,6 @@ dotnet ef dbcontext scaffold "server=localhost;uid=root;pwd=mysql;database=north
 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-Bjb21tb25tYXJrXG4iLCJoaXN0b3J5IjpbLTEyNDI1NDgzOTRd
-fQ==
+Bjb21tb25tYXJrXG4iLCJoaXN0b3J5IjpbMTA3MjAyMzk4MCwt
+MTI0MjU0ODM5NF19
 -->
