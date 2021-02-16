@@ -28,10 +28,10 @@ Aquí está el diagrama Entidad Relación de la misma, [encontrado en el reposit
 
 ## Construyendo la Base de Datos 👷‍♂️📄
 
-Arrastramos el archivo `northwind.sql` a la ventana de SQLYog y lo ejecutamos presionando las teclas `Ctrl + F9` o dándole click al botón `Execute All Queries`. Esto creará la Base de Datos en el mismo. Repetimos estos pasos con el archivo `northwind_data.sql`, para poblar las tablas de los datos que estaremos usando.
+Arrastramos el archivo `northwind.sql` a la ventana de SQLYog y lo ejecutamos presionando las teclas `Ctrl + F9` o dándole click al botón `Execute All Queries`. Esto creará la Base de Datos en el mismo. Repetimos estos pasos con el archivo `northwind-data.sql`, para poblar las tablas de los datos que estaremos usando.
 
 
-## Creando el Proyecto
+## Creando el Proyecto 
 Abrimos el Command Prompt o Powershell y navegamos (o creamos) el directorio en que vamos a crear nuestro proyecto.
 
 Verificamos que `dotnet ef` este instalado ejecutando este comando:
@@ -85,7 +85,7 @@ A partir de aquí, ya se pueden hacer consultas utilizando otra herramienta muy 
 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-Bjb21tb25tYXJrXG4iLCJoaXN0b3J5IjpbNTM5MTE0NDg1LDEy
-MDU3NTkyMzksMjA3MTgzMTU3NiwtMTA0ODY3MjMxNiwtMTI0Mj
-U0ODM5NF19
+Bjb21tb25tYXJrXG4iLCJoaXN0b3J5IjpbMTIwMDI3NDQwOSwx
+MjA1NzU5MjM5LDIwNzE4MzE1NzYsLTEwNDg2NzIzMTYsLTEyND
+I1NDgzOTRdfQ==
 -->
