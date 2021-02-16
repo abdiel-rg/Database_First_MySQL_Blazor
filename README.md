@@ -68,7 +68,7 @@ Para hacer esto, usaremos este comando. Este puede variar dependiendo algunos fa
 ```bash
 dotnet ef dbcontext scaffold "server=localhost;uid=root;pwd=mysql;database=northwind" Pomelo.EntityFrameworkCore.MySql --output-dir Models --force
 ```
-
+Podemos confirmar si 
 
 
 <br>
@@ -84,6 +84,6 @@ dotnet ef dbcontext scaffold "server=localhost;uid=root;pwd=mysql;database=north
 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-Bjb21tb25tYXJrXG4iLCJoaXN0b3J5IjpbLTEwNDg2NzIzMTYs
-LTEyNDI1NDgzOTRdfQ==
+Bjb21tb25tYXJrXG4iLCJoaXN0b3J5IjpbNDcxMzg5NTE4LC0x
+MDQ4NjcyMzE2LC0xMjQyNTQ4Mzk0XX0=
 -->
