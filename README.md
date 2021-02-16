@@ -63,7 +63,7 @@ dotnet add package Microsoft.VisualStudio.Web.CodeGeneration.Design -v 5.0.2
 dotnet add package Pomelo.EntityFrameworkCore.MySql -v 3.2.4
 ```
 
-## Creando los Modelos a partir de la Base de Datos 📖
+## Creando los Modelos a partir de la Base de Datos 📖📤📥📂🗂📁📋🗃📎🖇🗄
 Para hacer esto, usaremos este comando. Este puede variar dependiendo algunos factores, tales como el gestor de base de datos que estemos usando.
 ```bash
 dotnet ef dbcontext scaffold "server=localhost;uid=root;pwd=mysql;database=northwind" Pomelo.EntityFrameworkCore.MySql --output-dir Models --force
@@ -85,7 +85,7 @@ A partir de aquí, ya se pueden hacer consultas utilizando otra herramienta muy 
 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-Bjb21tb25tYXJrXG4iLCJoaXN0b3J5IjpbLTEzNzg2Nzk1NzQs
-MTIwMDI3NDQwOSwxMjA1NzU5MjM5LDIwNzE4MzE1NzYsLTEwND
-g2NzIzMTYsLTEyNDI1NDgzOTRdfQ==
+Bjb21tb25tYXJrXG4iLCJoaXN0b3J5IjpbMzgxNjg2MzkxLDEy
+MDAyNzQ0MDksMTIwNTc1OTIzOSwyMDcxODMxNTc2LC0xMDQ4Nj
+cyMzE2LC0xMjQyNTQ4Mzk0XX0=
 -->
