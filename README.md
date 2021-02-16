@@ -75,10 +75,7 @@ Podemos confirmar la creación de los modelos accediendo a la carpeta Models, ta
 A partir de aquí, ya se pueden hacer consultas utilizando otra herramienta muy útil, [LINQ](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/).
 
 
-<br>
-
-
-#### Hecho por [Abdiel Rodríguez Gutierrez](https://github.com/abdiel-rg)
+<br >
 
 ## Notas
 
@@ -88,6 +85,6 @@ A partir de aquí, ya se pueden hacer consultas utilizando otra herramienta muy 
 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-Bjb21tb25tYXJrXG4iLCJoaXN0b3J5IjpbNDc2NDQ2MzA4LDIw
-NzE4MzE1NzYsLTEwNDg2NzIzMTYsLTEyNDI1NDgzOTRdfQ==
+Bjb21tb25tYXJrXG4iLCJoaXN0b3J5IjpbMTIwNTc1OTIzOSwy
+MDcxODMxNTc2LC0xMDQ4NjcyMzE2LC0xMjQyNTQ4Mzk0XX0=
 -->
