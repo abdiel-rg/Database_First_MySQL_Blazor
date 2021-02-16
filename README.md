@@ -69,8 +69,11 @@ Podemos confirmar la creación de los modelos accediendo a la carpeta Models, ta
 A partir de aquí, ya se pueden hacer consultas utilizando otra herramienta muy útil, [LINQ](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/).
 
 Por ejemplo, esta es una consulta para cargar todos los empleados en una tabla usando Blazor.
-![VSCode_Consulta](https://i.ibb.co/cgCVZRr/image.png)
 
+![VSCode_Consulta](https://i.ibb.co/cgCVZRr/image.png)
+<br><br>
+Y aquí esta
+![Resultado](https://i.ibb.co/5YxR6Wh/image.png)
 
 
 <br >
@@ -83,8 +86,8 @@ Por ejemplo, esta es una consulta para cargar todos los empleados en una tabla u
 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-Bjb21tb25tYXJrXG4iLCJoaXN0b3J5IjpbMjg4ODgzODg1LC0x
-MzIxNTc0NzMwLC0xMzUwMjkxNjMsMTIwMDI3NDQwOSwxMjA1Nz
-U5MjM5LDIwNzE4MzE1NzYsLTEwNDg2NzIzMTYsLTEyNDI1NDgz
-OTRdfQ==
+Bjb21tb25tYXJrXG4iLCJoaXN0b3J5IjpbMTY0OTE0OTUwMiwt
+MTMyMTU3NDczMCwtMTM1MDI5MTYzLDEyMDAyNzQ0MDksMTIwNT
+c1OTIzOSwyMDcxODMxNTc2LC0xMDQ4NjcyMzE2LC0xMjQyNTQ4
+Mzk0XX0=
 -->
