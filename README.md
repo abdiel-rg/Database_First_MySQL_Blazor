@@ -28,7 +28,7 @@ Aquí está el diagrama Entidad Relación de la misma, [encontrado en el reposit
 
 ## Construyendo la Base de Datos 👷‍♂️📄
 
-Arrastramos el archivo `northwind.sql` a la ventana de SQLYog y lo ejecutamos presionando las teclas `Ctrl + F9` o dándole click al botón `Execute All Queries`. Esto creará la Base de Datos en el mismo.
+Arrastramos el archivo `northwind.sql` a la ventana de SQLYog y lo ejecutamos presionando las teclas `Ctrl + F9` o dándole click al botón `Execute All Queries`. Esto creará la Base de Datos en el mismo. Repetimos estos pasos con el archivo `northwind_data.sql`, para poblar las tablas de los datos que estaremos usando.
 
 
 ## Creando el Proyecto
@@ -85,6 +85,7 @@ A partir de aquí, ya se pueden hacer consultas utilizando otra herramienta muy 
 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-Bjb21tb25tYXJrXG4iLCJoaXN0b3J5IjpbMTIwNTc1OTIzOSwy
-MDcxODMxNTc2LC0xMDQ4NjcyMzE2LC0xMjQyNTQ4Mzk0XX0=
+Bjb21tb25tYXJrXG4iLCJoaXN0b3J5IjpbNTM5MTE0NDg1LDEy
+MDU3NTkyMzksMjA3MTgzMTU3NiwtMTA0ODY3MjMxNiwtMTI0Mj
+U0ODM5NF19
 -->
