@@ -1,11 +1,5 @@
 # Database-First con Entity Framework Core y MySQL 💾
 
-<style>
-	pre {
-	  tab-width: 2;
-	}
-</style>
-
 En este tutorial, aprenderemos como importar los datos de una base de datos MySQL ya creada y utilizarlos usando Entity Framework Core. Esto se conoce como *Database-First*.
 
 ## Programas Necesarios 💻
