@@ -6,7 +6,8 @@ Este proceso se conoce como [*Database-First*](https://docs.microsoft.com/es-es/
 
 
 ## Programas Necesarios 💻
-> Este paso solo es necesario si no queremos usar MySQL Workbench y el servicio oficial de MySQL, respectivamente.
+> ###### Este paso solo es necesario si no queremos usar MySQL Workbench y el servicio oficial de MySQL, respectivamente.
+
 Primero, tenemos que descargar e instalar los siguientes programas:
 
 
@@ -99,10 +100,10 @@ Adjunto a este tutorial, se encuentra el código fuente de la aplicación. Si de
 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-Bjb21tb25tYXJrXG4iLCJoaXN0b3J5IjpbMTcyNjYxNTA1OCwt
-NjgyOTkxNDIwLC0xODM4NTQ4NTU5LC03NTc4Nzc0NTMsLTIwMD
-MxMDI1MzYsLTEyNDY1MDA1NTcsMTg1NjQxMjI0NywtMTkyNjM0
-Nzg2LC0xOTM0MzQzNTczLC0xMzIxNTc0NzMwLC0xMzUwMjkxNj
-MsMTIwMDI3NDQwOSwxMjA1NzU5MjM5LDIwNzE4MzE1NzYsLTEw
-NDg2NzIzMTYsLTEyNDI1NDgzOTRdfQ==
+Bjb21tb25tYXJrXG4iLCJoaXN0b3J5IjpbODY4NzYzMzMyLC02
+ODI5OTE0MjAsLTE4Mzg1NDg1NTksLTc1Nzg3NzQ1MywtMjAwMz
+EwMjUzNiwtMTI0NjUwMDU1NywxODU2NDEyMjQ3LC0xOTI2MzQ3
+ODYsLTE5MzQzNDM1NzMsLTEzMjE1NzQ3MzAsLTEzNTAyOTE2My
+wxMjAwMjc0NDA5LDEyMDU3NTkyMzksMjA3MTgzMTU3NiwtMTA0
+ODY3MjMxNiwtMTI0MjU0ODM5NF19
 -->
