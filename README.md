@@ -1,4 +1,4 @@
-# Database-First con Entity Framework Core , Blazor y MySQL 💾
+# Database-First con Entity Framework Core, Blazor y MySQL 💾
 
 En este tutorial, aprenderemos como importar las tablas de una base de datos MySQL ya creada y acceder a los datos de las mismas utilizando Entity Framework Core y Blazor.
 
@@ -100,7 +100,7 @@ Adjunto a este tutorial, se encuentra el código fuente de la aplicación. Si de
 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-Bjb21tb25tYXJrXG4iLCJoaXN0b3J5IjpbMjAzNTU0NjM5NCwx
+Bjb21tb25tYXJrXG4iLCJoaXN0b3J5IjpbMTk3NDg4NTExNCwx
 NjA5MDU4NDk2LC02ODI5OTE0MjAsLTE4Mzg1NDg1NTksLTc1Nz
 g3NzQ1MywtMjAwMzEwMjUzNiwtMTI0NjUwMDU1NywxODU2NDEy
 MjQ3LC0xOTI2MzQ3ODYsLTE5MzQzNDM1NzMsLTEzMjE1NzQ3Mz
