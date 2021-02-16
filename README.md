@@ -4,9 +4,11 @@ En este tutorial, aprenderemos como importar las tablas de una base de datos MyS
 
 Este proceso se conoce como [*Database-First*](https://docs.microsoft.com/es-es/ef/ef6/modeling/designer/workflows/database-first).
 
+
 ## Programas Necesarios 💻
-Primero, tenemos que descargar e instalar los siguientes programas:
 > Este paso solo es necesario si no queremos usar MySQL Workbench y el servicio oficial de MySQL, respectivamente.
+Primero, tenemos que descargar e instalar los siguientes programas:
+
 
 - **[SQLYog Community 🐬](https://github.com/webyog/sqlyog-community/wiki/Downloads) :**  *"Es una potente herramienta de interfaz gráfica para gestionar servidores y bases de datos MySQL y MariaDB en entornos físicos, virtuales y en la nube."*	<sup><a id="fnp1" href="#fn1">1</a></sup>
 
@@ -97,10 +99,10 @@ Adjunto a este tutorial, se encuentra el código fuente de la aplicación. Si de
 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-Bjb21tb25tYXJrXG4iLCJoaXN0b3J5IjpbLTY4Mjk5MTQyMCwt
-MTgzODU0ODU1OSwtNzU3ODc3NDUzLC0yMDAzMTAyNTM2LC0xMj
-Q2NTAwNTU3LDE4NTY0MTIyNDcsLTE5MjYzNDc4NiwtMTkzNDM0
-MzU3MywtMTMyMTU3NDczMCwtMTM1MDI5MTYzLDEyMDAyNzQ0MD
-ksMTIwNTc1OTIzOSwyMDcxODMxNTc2LC0xMDQ4NjcyMzE2LC0x
-MjQyNTQ4Mzk0XX0=
+Bjb21tb25tYXJrXG4iLCJoaXN0b3J5IjpbMTcyNjYxNTA1OCwt
+NjgyOTkxNDIwLC0xODM4NTQ4NTU5LC03NTc4Nzc0NTMsLTIwMD
+MxMDI1MzYsLTEyNDY1MDA1NTcsMTg1NjQxMjI0NywtMTkyNjM0
+Nzg2LC0xOTM0MzQzNTczLC0xMzIxNTc0NzMwLC0xMzUwMjkxNj
+MsMTIwMDI3NDQwOSwxMjA1NzU5MjM5LDIwNzE4MzE1NzYsLTEw
+NDg2NzIzMTYsLTEyNDI1NDgzOTRdfQ==
 -->
