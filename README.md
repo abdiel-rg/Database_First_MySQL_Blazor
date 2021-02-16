@@ -68,7 +68,8 @@ Para hacer esto, usaremos este comando. Este puede variar dependiendo algunos fa
 ```bash
 dotnet ef dbcontext scaffold "server=localhost;uid=root;pwd=mysql;database=northwind" Pomelo.EntityFrameworkCore.MySql --output-dir Models --force
 ```
-Podemos confirmar si 
+Podemos confirmar la creacion de los modelos accediendo a la carpeta Models, tal como se ve en la imagen.
+![Models](https://i.ibb.co/PFNZk7J/image.png)
 
 
 <br>
@@ -84,6 +85,6 @@ Podemos confirmar si
 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-Bjb21tb25tYXJrXG4iLCJoaXN0b3J5IjpbNDcxMzg5NTE4LC0x
-MDQ4NjcyMzE2LC0xMjQyNTQ4Mzk0XX0=
+Bjb21tb25tYXJrXG4iLCJoaXN0b3J5IjpbMjA3MTgzMTU3Niwt
+MTA0ODY3MjMxNiwtMTI0MjU0ODM5NF19
 -->
