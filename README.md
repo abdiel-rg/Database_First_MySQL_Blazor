@@ -60,12 +60,13 @@ dotnet add package Pomelo.EntityFrameworkCore.MySql -v 3.2.4
 ```
 
 ## Creando los Modelos a partir de la Base de Datos 📋
-Para hacer esto, usaremos este comando. Este puede variar dependiendo algunos factores, tales como el gestor de base de datos que estemos usando.
+Para hacer esto, usaremos este comando. Este puede variar dependiendo algunos factores, tales como el gestor de base de datos que estemos usando y la base de datos que vamos a importar.
+
+En este caso, usando MySQL, se ve así:
 ```bash
 dotnet ef dbcontext scaffold "server=localhost;uid=root;pwd=mysql;database=northwind" Pomelo.EntityFrameworkCore.MySql --output-dir Models --force
 ```
-- **scaffold**: Gener
-	
+<br>
 Podemos confirmar la creación de los modelos accediendo a la carpeta Models, tal como se ve en la imagen.
 
 ![Models](https://i.ibb.co/cDGXLN8/image.png)
@@ -94,10 +95,10 @@ Adjunto a este tutorial, se encuentra el código fuente de la aplicación. Si de
 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-Bjb21tb25tYXJrXG4iLCJoaXN0b3J5IjpbMjc4MDIzMDYwLC03
-NTc4Nzc0NTMsLTIwMDMxMDI1MzYsLTEyNDY1MDA1NTcsMTg1Nj
-QxMjI0NywtMTkyNjM0Nzg2LC0xOTM0MzQzNTczLC0xMzIxNTc0
-NzMwLC0xMzUwMjkxNjMsMTIwMDI3NDQwOSwxMjA1NzU5MjM5LD
-IwNzE4MzE1NzYsLTEwNDg2NzIzMTYsLTEyNDI1NDgzOTRdfQ==
+Bjb21tb25tYXJrXG4iLCJoaXN0b3J5IjpbMTk2MTU5Njk1OSwt
+NzU3ODc3NDUzLC0yMDAzMTAyNTM2LC0xMjQ2NTAwNTU3LDE4NT
+Y0MTIyNDcsLTE5MjYzNDc4NiwtMTkzNDM0MzU3MywtMTMyMTU3
+NDczMCwtMTM1MDI5MTYzLDEyMDAyNzQ0MDksMTIwNTc1OTIzOS
+wyMDcxODMxNTc2LC0xMDQ4NjcyMzE2LC0xMjQyNTQ4Mzk0XX0=
 
 -->
